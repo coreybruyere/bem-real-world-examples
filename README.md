@@ -6,7 +6,7 @@ kidding? I know you do.
 This is a list of known sites that are using the BEM syntax within the site's markup--both SUIT and classic.
 It's also home to good examples of BEM(good naming, correct syntax) and not-so-good examples(bad naming, inconsistent syntax).
 But that's not really the point, this list is simply a reference to see how other developers are building components and websites with BEM.
-Each example will have the BEM syntax style next to it.
+Each example will have the BEM syntax style noted next to it.
 
 ### The List
 
