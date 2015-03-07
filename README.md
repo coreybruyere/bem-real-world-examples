@@ -16,3 +16,4 @@ Each example will have the BEM syntax style noted next to it.
 * [edgeproducts.com](http://edgeproducts.com/) - [Classic BEM](http://csswizardry.com/2013/01/mindbemding-getting-your-head-round-bem-syntax/)
 * [teachkidsprogramming.org](http://teachingkidsprogramming.org/) - [Classic BEM](http://csswizardry.com/2013/01/mindbemding-getting-your-head-round-bem-syntax/)
 
+**If you know of a site that should be added to this list, please file an issue or a pull request**
