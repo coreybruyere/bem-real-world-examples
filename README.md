@@ -12,9 +12,11 @@ Each example will have the BEM syntax style noted next to it.
 
 * [market.envato.com](http://market.envato.com/) - [BEVM](http://webuild.envato.com/blog/chainable-bem-modifiers/)
 * [suitcss.github.io/](https://suitcss.github.io/) - [SUIT](https://suitcss.github.io/)
-* [csswizardry.com](http://csswizardry.com/) - [Classic BEM](http://csswizardry.com/2013/01/mindbemding-getting-your-head-round-bem-syntax/)
+* [mediatemple.net](http://mediatemple.net/) - [Classic BEM](http://csswizardry.com/2013/01/mindbemding-getting-your-head-round-bem-syntax/)
 * [edgeproducts.com](http://edgeproducts.com/) - [Classic BEM](http://csswizardry.com/2013/01/mindbemding-getting-your-head-round-bem-syntax/)
 * [teachkidsprogramming.org](http://teachingkidsprogramming.org/) - [Classic BEM](http://csswizardry.com/2013/01/mindbemding-getting-your-head-round-bem-syntax/)
 * [porcfest.com](http://porcfest.com/) - [Classic BEM](http://csswizardry.com/2013/01/mindbemding-getting-your-head-round-bem-syntax/)
+
+Other BEM Projects: [Built with BEM](https://en.bem.info/built-with-b/)
 
 **If you know of a site that should be added to this list, please file an issue or a pull request**
