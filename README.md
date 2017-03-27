@@ -12,12 +12,13 @@ Each example will have the BEM syntax style noted next to it.
 
 * [market.envato.com](http://market.envato.com/) - [BEVM](http://webuild.envato.com/blog/chainable-bem-modifiers/)
 * [bbc.com/news](http://www.bbc.com/news) - [Classic BEM](http://csswizardry.com/2013/01/mindbemding-getting-your-head-round-bem-syntax/)
+* [theguardian.com](https://www.theguardian.com/) - [Classic BEM](http://csswizardry.com/2013/01/mindbemding-getting-your-head-round-bem-syntax/)
 * [csswizardry.com](http://csswizardry.com/) - [Classic BEM](http://csswizardry.com/2013/01/mindbemding-getting-your-head-round-bem-syntax/)
 * [mediatemple.net](http://mediatemple.net/) - [Classic BEM](http://csswizardry.com/2013/01/mindbemding-getting-your-head-round-bem-syntax/)
-* [edgeproducts.com](http://edgeproducts.com/) - [Classic BEM](http://csswizardry.com/2013/01/mindbemding-getting-your-head-round-bem-syntax/)
 * [teachkidsprogramming.org](http://teachingkidsprogramming.org/) - [Classic BEM](http://csswizardry.com/2013/01/mindbemding-getting-your-head-round-bem-syntax/)
 * [porcfest.com](http://porcfest.com/) - [Classic BEM](http://csswizardry.com/2013/01/mindbemding-getting-your-head-round-bem-syntax/)
 * [voux.io](http://voux.io/) - [Classic BEM](http://csswizardry.com/2013/01/mindbemding-getting-your-head-round-bem-syntax/)
+* [coreybruyere.com](http://coreybruyere.com/) - [Classic BEM](http://csswizardry.com/2013/01/mindbemding-getting-your-head-round-bem-syntax/)
 
 Other BEM Projects: [Built with BEM](https://en.bem.info/built-with-b/)
 
