@@ -19,6 +19,7 @@ Each example will have the BEM syntax style noted next to it.
 * [porcfest.com](http://porcfest.com/) - [Classic BEM](http://csswizardry.com/2013/01/mindbemding-getting-your-head-round-bem-syntax/)
 * [voux.io](http://voux.io/) - [Classic BEM](http://csswizardry.com/2013/01/mindbemding-getting-your-head-round-bem-syntax/)
 * [coreybruyere.com](http://coreybruyere.com/) - [Classic BEM](http://csswizardry.com/2013/01/mindbemding-getting-your-head-round-bem-syntax/)
+* [udemy.com](http://udemy.com/) - [Classic BEM](http://csswizardry.com/2013/01/mindbemding-getting-your-head-round-bem-syntax/)
 
 Other BEM Projects: [Built with BEM](https://en.bem.info/built-with-b/)
 
