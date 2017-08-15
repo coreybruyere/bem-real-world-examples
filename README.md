@@ -13,7 +13,6 @@ Each example will have the BEM syntax style noted next to it.
 * [csswizardry.com](http://csswizardry.com/) - [Classic BEM](http://csswizardry.com/2013/01/mindbemding-getting-your-head-round-bem-syntax/)
 * [mediatemple.net](http://mediatemple.net/) - [Classic BEM](http://csswizardry.com/2013/01/mindbemding-getting-your-head-round-bem-syntax/)
 * [teachkidsprogramming.org](http://teachingkidsprogramming.org/) - [Classic BEM](http://csswizardry.com/2013/01/mindbemding-getting-your-head-round-bem-syntax/)
-* [porcfest.com](http://porcfest.com/) - [Classic BEM](http://csswizardry.com/2013/01/mindbemding-getting-your-head-round-bem-syntax/)
 * [voux.io](http://voux.io/) - [Classic BEM](http://csswizardry.com/2013/01/mindbemding-getting-your-head-round-bem-syntax/)
 * [coreybruyere.com](http://coreybruyere.com/) - [Classic BEM](http://csswizardry.com/2013/01/mindbemding-getting-your-head-round-bem-syntax/)
 * [udemy.com](http://udemy.com/) - [Classic BEM](http://csswizardry.com/2013/01/mindbemding-getting-your-head-round-bem-syntax/)
