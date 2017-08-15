@@ -1,6 +1,6 @@
 # A List of Sites That Use the BEM Syntax
 
-This is a of list sites across the web that are using the BEM syntax.
+This is a list of sites across the web that are using the BEM syntax.
 It's home to good examples of BEM (good naming, correct syntax) and not-so-good examples (bad naming, inconsistent syntax).
 But that's not really the point, this list is simply a reference to see how other developers are building components and websites with BEM.
 Each example will have the BEM syntax style noted next to it.
