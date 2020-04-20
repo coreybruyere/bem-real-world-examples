@@ -12,7 +12,6 @@ It's home to good examples of BEM (good naming, correct syntax) and not-so-good 
 * [mediatemple.net](http://mediatemple.net/)
 * [teachkidsprogramming.org](http://teachingkidsprogramming.org/)
 * [voux.io](http://voux.io/)
-* [coreybruyere.com](http://coreybruyere.com/)
 * [udemy.com](http://udemy.com/)
 * [www.linkedin.com](http://www.linkedin.com/)
 
