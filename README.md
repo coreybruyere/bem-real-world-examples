@@ -14,8 +14,7 @@ It's home to good examples of BEM (good naming, correct syntax) and not-so-good 
 * [voux.io](http://voux.io/)
 * [udemy.com](http://udemy.com/)
 * [www.linkedin.com](http://www.linkedin.com/)
-
-Other BEM Projects: [Built with BEM](https://en.bem.info/built-with-b/)
+* [https://www.ft.com/(https://www.ft.com/)
 
 BEM Resources:
 [Getting your head ’round BEM syntax](http://csswizardry.com/2013/01/mindbemding-getting-your-head-round-bem-syntax/)
