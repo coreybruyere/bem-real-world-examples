@@ -5,13 +5,10 @@ It's home to good examples of BEM (good naming, correct syntax) and not-so-good 
 
 ## The List
 
-* [market.envato.com](http://market.envato.com/)
 * [bbc.com/news](http://www.bbc.com/news)
 * [theguardian.com](https://www.theguardian.com/)
 * [csswizardry.com](http://csswizardry.com/)
-* [mediatemple.net](http://mediatemple.net/)
 * [teachkidsprogramming.org](http://teachingkidsprogramming.org/)
-* [voux.io](http://voux.io/)
 * [udemy.com](http://udemy.com/)
 * [linkedin.com](http://www.linkedin.com/)
 * [ft.com](https://www.ft.com/)
