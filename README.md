@@ -16,8 +16,8 @@ It's home to good examples of BEM (good naming, correct syntax) and not-so-good 
 * [cobbtuning.com](https://www.cobbtuning.com/)
 * [shopify.com](https://www.shopify.com/)
 
-BEM Resources:
-[Getting your head ’round BEM syntax](http://csswizardry.com/2013/01/mindbemding-getting-your-head-round-bem-syntax/)
-[Chainable BEM Modifiers](http://webuild.envato.com/blog/chainable-bem-modifiers/)
+## BEM Resources
+* [Getting your head ’round BEM syntax](http://csswizardry.com/2013/01/mindbemding-getting-your-head-round-bem-syntax/)
+* [Chainable BEM Modifiers](http://webuild.envato.com/blog/chainable-bem-modifiers/)
 
 **If you know of a site that should be added to this list, please file an issue or a pull request**
